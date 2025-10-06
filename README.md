@@ -30,7 +30,7 @@ Explore the interactive Tableau dashboard here:
 
 **Notebook**  
 The full analysis can be found in the Jupyter Notebook:  
-[`phase1_aviation_risk_analysis.ipynb`](./phase1_aviation_risk_analysis.ipynb)
+[`phase1_aviation_risk_analysis.ipynb`](https://github.com/mutiedoris/phase1_aviation_risk_analysis/blob/main/project1_aviation_risk_analysis.ipynb)
 
 ## Conclusion
 - Certain aircraft types show consistently lower accident and fatality rates.  
